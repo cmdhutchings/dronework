@@ -1,0 +1,29 @@
+/*# sourceMappingURL=bootstrap.css.map */
+
+.capital_letter{
+    color: #2383C5;
+    font-size:1.8;
+}
+#finger      {
+    border:#2483C5 thick solid;
+    margin: 1%;
+}
+
+.pfig        {
+    border:#2483C5 medium solid;
+}
+.logo        { position: fixed; 
+                z-index: 999;
+}
+.intro        {
+    margin-top: 12%;
+    
+}
+
+
+
+
+.jumbotron{
+    position: relative;
+    z-index: 99;
+}
